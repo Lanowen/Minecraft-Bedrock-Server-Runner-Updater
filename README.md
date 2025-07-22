@@ -23,7 +23,14 @@ Linux:
 
 Windows:
 
-https://www.python.org/downloads/
+Install python 3: https://www.python.org/downloads/
+
+Run: 
+
+```cmd
+install_python_dependencies_win.bat
+```
+
 
 ## How to run
 ### 1. Run updater

@@ -1,4 +1,4 @@
-# Minecraft-Bedrock-Server-Updater
+# Minecraft-Bedrock-Server-Runner-Updater
 Automatically detect new version of minecraft bedrock server and update your server without losing server data
 
 ## How this works

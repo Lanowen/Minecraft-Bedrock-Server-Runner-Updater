@@ -1,2 +1,2 @@
-sudo apt update && sudo apt install -y python3 python3-pip wget unzip tmux libcurl4
+sudo apt update && sudo apt install -y python3 python3-pip
 pip3 install requests

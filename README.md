@@ -18,7 +18,7 @@ Works Crossplatform (Windows/Linux) as all things using Python _should_.
 Linux:
 
 ```sh
-./install_packages.sh
+./install_packages_linux.sh
 ```
 
 Windows:

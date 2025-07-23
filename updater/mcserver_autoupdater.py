@@ -17,8 +17,7 @@ def print_log(msg):
     global logfile
     with open(logfile, "a") as file:
         timenow = "[" + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "]: "
-
-        # Stop MC server safely
+        
         msg = timenow + msg
 
         print(msg)
